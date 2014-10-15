@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://fanyufan.github.io/atom.xml" rel="self"/>
   <link href="http://fanyufan.github.io/"/>
-  <updated>2014-10-15T23:17:45+08:00</updated>
+  <updated>2014-10-15T23:36:21+08:00</updated>
   <id>http://fanyufan.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,20 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello Github]]></title>
+    <title type="html"><![CDATA[Hello GitHub]]></title>
     <link href="http://fanyufan.github.io/blog/2014/10/15/hello-github/"/>
-    <updated>2014-10-15T00:00:00+08:00</updated>
+    <updated>2014-10-15T21:18:01+08:00</updated>
     <id>http://fanyufan.github.io/blog/2014/10/15/hello-github</id>
-    <content type="html"><![CDATA[<h2>＃我的博客</h2>
+    <content type="html"><![CDATA[<h2>我的第一篇博客文章</h2>
 
-<p>layout: post
-title: &ldquo;Hello GitHub&rdquo;
-date: 2014-10-15 21:18:01 +0800
-comments: true</p>
-
-<h2>categories: </h2>
-
-<h2>我的第一篇博客文章</h2>
+<h3>好不容易终于把博客的搭建起来咯，试试看效果怎么样。</h3>
 ]]></content>
   </entry>
   
