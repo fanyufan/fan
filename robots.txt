@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://fanyufan.github.io/sitemap.xml 
